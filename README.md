@@ -1,5 +1,5 @@
 # coursework_hash
-Subject: algorithms and data structures
+Subject: Algorithms and data structures
 
 Topic: Хеш-таблица с открытой адресацией и Хеш-таблица с двойным хешированием. Исследование
 
